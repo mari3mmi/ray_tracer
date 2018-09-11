@@ -1,2 +1,2 @@
-#Ray Tracer
+# Ray Tracer
 simple ray tracer in python
