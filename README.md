@@ -1,2 +1,2 @@
-# comp371_project
+#Ray Tracer
 simple ray tracer in python
